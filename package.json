@@ -1,0 +1,16 @@
+{
+    "name": "EURO-2016",
+    "version": "1.0.0",
+    "description": "Betting on EURO 2016 matches.",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/dlidstrom/EURO-2016"
+    },
+    "license": "MIT",
+    "licenseUrl": "http://opensource.org/licenses/MIT",
+    "dependencies": {
+    },
+    "devDependencies": {
+        "typescript": "^1.7.0"
+    }
+}
