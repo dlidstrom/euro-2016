@@ -4,7 +4,7 @@ class Startup {
         
         console.log('Running 5...');
         
-        console.log('Running 5...');
+        console.log('Running 7...');
         
         return 5;
     }
